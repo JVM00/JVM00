@@ -21,3 +21,12 @@
 ## Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact)
+
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=JVM00&theme=onedark&no-frame=true&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+## ✍️ Random Dev Quote
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+## 🔝 Top Contributed Repo
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=JVM00&limit=5&theme=radical&combine_all_yearly_contributions=true)
