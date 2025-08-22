@@ -15,4 +15,4 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
 </p>
 ## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<your-username>&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact)
