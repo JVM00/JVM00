@@ -18,7 +18,8 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Text-555555" />
+  <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
 </p>
 
 
