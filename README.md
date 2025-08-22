@@ -5,7 +5,7 @@
 - 💬 Ask me about: Things
 - 📫 How to reach me: Out
 
-## Tech
+## 💻 Tech:
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-444444" />
