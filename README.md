@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Text-555555" />
 </p>
 
 
