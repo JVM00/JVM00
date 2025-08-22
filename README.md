@@ -1,9 +1,9 @@
 # Hi, I'm JVM00 
 
-- 🔭 I’m working on: Things
-- 🌱 I’m learning: Things
-- 💬 Ask me about: Things
-- 📫 How to reach me: Out
+- 🔭 I’m currently working on: **Data Engineering, Data Science, and DevOps**  
+- 🌱 I’m continuously learning: **emerging technologies and programming languages in the data ecosystem**  
+- 💬 Ask me about: **Anything related to Data — from pipelines to machine learning**  
+
 
 ## 💻 Tech:
 <p align="left">
