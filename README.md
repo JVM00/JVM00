@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/SAS-1E90FF?logo=sas&logoColor=white" />
   <img src="https://img.shields.io/badge/LaTeX-008080?logo=latex&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white" />
 </p>
 
 
