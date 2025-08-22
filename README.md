@@ -1,9 +1,9 @@
 # Hi, I'm JVM00 
 
-- 🔭 I’m working on: ...
-- 🌱 I’m learning: ...
-- 💬 Ask me about: ...
-- 📫 How to reach me: ...
+- 🔭 I’m working on: Things
+- 🌱 I’m learning: Things
+- 💬 Ask me about: Things
+- 📫 How to reach me: Out
 
 ## Tech
 <p align="left">
