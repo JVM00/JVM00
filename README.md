@@ -29,6 +29,6 @@ See all my certificates here: [View Certificates](https://javivm00.github.io/)
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact&theme=tokyonight)
 
 
