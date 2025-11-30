@@ -26,7 +26,7 @@
 
 ## Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact&theme=tokyonight&cache_seconds=7200)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JVM00&layout=compact)
 
 ## 📜 Certificates
 See all my certificates here: [View Certificates](https://javivm00.github.io/)
